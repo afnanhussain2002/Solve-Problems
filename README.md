@@ -1,0 +1,1 @@
+I will try to solve some basic and advance problem using javaScript
